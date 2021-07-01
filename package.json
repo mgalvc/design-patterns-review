@@ -1,0 +1,26 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Design patterns are general concepts/solutions to common problems in software design. You will find details and examples of some of these patterns in this repo's folders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "exec": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgalvc/design-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgalvc/design-patterns/issues"
+  },
+  "homepage": "https://github.com/mgalvc/design-patterns#readme",
+  "devDependencies": {
+    "@types/node": "^15.12.5",
+    "ts-node": "^10.0.0",
+    "tslib": "^2.3.0",
+    "typescript": "^4.3.5"
+  }
+}
